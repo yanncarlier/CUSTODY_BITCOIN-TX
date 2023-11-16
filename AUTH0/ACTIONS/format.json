@@ -1,0 +1,10 @@
+{
+    "id": "string",
+    "enabled": true,
+    "automaticRedelivery": true,
+    "url": "https://www.toptal.com/developers/postbin/1660731170857-9530656314454",
+    "authorizedEvents": {
+        "everything": true,
+    },
+    "secret": "string"
+}

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# for i in {1..1000}; do
+#     echo "Creating wallet $i"
+#     ./electrum create --seed_type segwit --portable --offline --wallet ./wallet$1/$i.wallet
+# done
+# grep xpub ./wallet$1/*.wallet >> ./wallet$1/wallet$1_xpubs.txt
+
+# echo "Done"
+
+
+#./electrum createmultisig --offline 2 '["0286b563fb80eeace45e9df219b9dee306a667e0813f184692571b4250799ef9c6", "03a48f9027baec53f5e978214ba9834e4393b739556251dfc94a01f4336e5f2a68", "036d8e2b7c21938c2e4d02b1a1d40de37a186ba6cf2185e3d4b46fb6ee7cf3e442"]'
+
+#--portable --seed_type segwit --wallet ./wallet$1/multisig.wallet
+

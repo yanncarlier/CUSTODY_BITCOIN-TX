@@ -1,0 +1,42 @@
+[
+    {
+        "created_at": "2022-09-05T10:21:34.262Z",
+        "email": "yanncarlier@gmail.com",
+        "email_verified": false,
+        "identities": [
+            {
+                "connection": "Username-Password-Authentication",
+                "provider": "auth0",
+                "user_id": "6315cdae0f176d1116092e10",
+                "isSocial": false
+            }
+        ],
+        "name": "yanncarlier@gmail.com",
+        "nickname": "yanncarlier",
+        "picture": "https://s.gravatar.com/avatar/73f65cac9675a0cf96dcc47f1cb9e4f0?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fya.png",
+        "updated_at": "2022-09-05T10:25:34.490Z",
+        "user_id": "auth0|6315cdae0f176d1116092e10",
+        "user_metadata": {},
+        "multifactor": [
+            "guardian"
+        ],
+        "multifactor_last_modified": "2022-09-05T10:22:57.394Z",
+        "last_login": "2022-09-05T10:25:34.490Z",
+        "last_ip": "194.65.159.44",
+        "logins_count": 2,
+        "app_metadata": {
+            "api_key": "af0b057edf8e3bd88cece8839619081197a577c5",
+            "store_data": {
+                "accountKeyPath": "971a0884/84'/0'/0'",
+                "cryptoCode": "BTC",
+                "derivationScheme": "xpub6BnMXii3Qi9StJfc81sQmuvsHPYWRaFnCd8oKKnzYeUN63qT2fZCA3gpdn1ZWDfFscFCUPQCAxSBX8uZmSnQTP6rHfrqebmiphCscia8PCk",
+                "enabled": true,
+                "label": null,
+                "mnemonic": "chuckle poet kick theory duty layer jar already hire brain fuel arrest",
+                "paymentMethod": "BTC"
+            },
+            "store_hard": "5LQvtZeh49pTPJpASP4hBNhaq3faCbAY3MGVYnDMqzqT",
+            "store_hot": "82h3TN3M1L7HikvsJ3LyLjBz8j9haYtX1vDArasARACn"
+        }
+    }
+]

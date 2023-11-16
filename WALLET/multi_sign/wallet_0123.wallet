@@ -1,0 +1,206 @@
+{
+    "addr_history": {
+        "32TPWwtZr6YvG55WPTfasoMMeDdsqJ8ZKG": [],
+        "346mbD8Z31hdHWLtifaN5x479BjVzVWQDK": [],
+        "36AkR2c2HNC3e634wTJnPesgGD1Gg72wjR": [],
+        "36Sm8XiKhoKhn7SVeCY7sBXvuabRBQMba9": [],
+        "36pu9fX2sLMMXbcJBrrha9YTKRGeGQX5dh": [],
+        "376y4UDgLbxyk9uUW9rxwT63aSQgbxU3hP": [],
+        "37ZftrynsF8UWsXBpV7nMRpuvmJQBgEUqP": [],
+        "37wWz5v2bGkC2hxWLVVuCveqxQyxh67J2D": [],
+        "38QtzjtDVMgcX3A9ZuttRU1jAkGDDigVBZ": [],
+        "392pq12zvYu9R2gXBE17DfRDGJ8tqKfvjW": [],
+        "3A9VUDgXrdwiqcz37G5zxXdC6YdokAyYp1": [],
+        "3BEikBLkrNdDsiRkMaqzY4dWqNvQyP7Pmx": [],
+        "3C4pFa623fP7Qn5ygf6GQzsYP7Av86KjEC": [],
+        "3DRZ8Tm2G7dQmgEHLdvzWLiEga2NKaBL6s": [],
+        "3Dc8ozSFnzJ7NHhreU2jNeFWVznkrBxUdf": [],
+        "3DoaHFoNHiTNNLpNMvyscne65SNpqukLtf": [],
+        "3E1eneU2bu7M7b9H23dMiYACkEZ6mv1b1V": [],
+        "3GtXCMpC3RMZPEgktPWPZkGbt3oETvFmex": [],
+        "3HiGpMHirCrT9NfCvPq1cdncy86tQQh6P9": [],
+        "3HwXXVRHVCMB9D4x6tBXUbGxfLdDg3VCoT": [],
+        "3KLbrQPEgsL8sbXqv1dW1wMw2TywPmmSPU": [],
+        "3KMcRaBxUQ4Ua2yBjP7yj35wGNxhjwTeze": [],
+        "3KeSf3a3JPRfQHKw7kiZBbbs4TqB2ecnUo": [],
+        "3LE8jPnLCTCH52qp49Jijf5SuuGMKyETdx": [],
+        "3MFJXaUqjjshQiK6rffnLsowHAE654KBRf": [],
+        "3Mdv5HRZ5FKG1xncmFkuE8h5W72QVZsfEe": [
+            [
+                "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3",
+                750748
+            ],
+            [
+                "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f",
+                0
+            ]
+        ],
+        "3NcLrCbQZWBSA2v9iucomzs4S52E8g5Rpe": [],
+        "3NjfYqkRwBP8QKe1uguh1yTvGeBKYsADi7": [],
+        "3PWL2xYHTkiuNyJd6PnnutSaMLJZs2P8d4": [],
+        "3PWtVe1gpVZpXK8qxu7mDa53LPYvU3MXRi": [],
+        "3Piej3XdvdB5oKXD4xhLLaXBJBextYTKkE": [],
+        "3QPJdrLkw8My5Gka3CGDYbbNdUQmq5C9Es": []
+    },
+    "addresses": {
+        "change": [
+            "3NcLrCbQZWBSA2v9iucomzs4S52E8g5Rpe",
+            "3KLbrQPEgsL8sbXqv1dW1wMw2TywPmmSPU",
+            "346mbD8Z31hdHWLtifaN5x479BjVzVWQDK",
+            "3BEikBLkrNdDsiRkMaqzY4dWqNvQyP7Pmx",
+            "3C4pFa623fP7Qn5ygf6GQzsYP7Av86KjEC",
+            "3E1eneU2bu7M7b9H23dMiYACkEZ6mv1b1V",
+            "3HwXXVRHVCMB9D4x6tBXUbGxfLdDg3VCoT",
+            "3DRZ8Tm2G7dQmgEHLdvzWLiEga2NKaBL6s",
+            "32TPWwtZr6YvG55WPTfasoMMeDdsqJ8ZKG",
+            "36Sm8XiKhoKhn7SVeCY7sBXvuabRBQMba9"
+        ],
+        "receiving": [
+            "3NjfYqkRwBP8QKe1uguh1yTvGeBKYsADi7",
+            "3Mdv5HRZ5FKG1xncmFkuE8h5W72QVZsfEe",
+            "3Piej3XdvdB5oKXD4xhLLaXBJBextYTKkE",
+            "3A9VUDgXrdwiqcz37G5zxXdC6YdokAyYp1",
+            "3Dc8ozSFnzJ7NHhreU2jNeFWVznkrBxUdf",
+            "3PWtVe1gpVZpXK8qxu7mDa53LPYvU3MXRi",
+            "3HiGpMHirCrT9NfCvPq1cdncy86tQQh6P9",
+            "36pu9fX2sLMMXbcJBrrha9YTKRGeGQX5dh",
+            "3PWL2xYHTkiuNyJd6PnnutSaMLJZs2P8d4",
+            "3KMcRaBxUQ4Ua2yBjP7yj35wGNxhjwTeze",
+            "3LE8jPnLCTCH52qp49Jijf5SuuGMKyETdx",
+            "3QPJdrLkw8My5Gka3CGDYbbNdUQmq5C9Es",
+            "36AkR2c2HNC3e634wTJnPesgGD1Gg72wjR",
+            "3GtXCMpC3RMZPEgktPWPZkGbt3oETvFmex",
+            "3DoaHFoNHiTNNLpNMvyscne65SNpqukLtf",
+            "37wWz5v2bGkC2hxWLVVuCveqxQyxh67J2D",
+            "392pq12zvYu9R2gXBE17DfRDGJ8tqKfvjW",
+            "38QtzjtDVMgcX3A9ZuttRU1jAkGDDigVBZ",
+            "3KeSf3a3JPRfQHKw7kiZBbbs4TqB2ecnUo",
+            "3MFJXaUqjjshQiK6rffnLsowHAE654KBRf",
+            "376y4UDgLbxyk9uUW9rxwT63aSQgbxU3hP",
+            "37ZftrynsF8UWsXBpV7nMRpuvmJQBgEUqP"
+        ]
+    },
+    "fiat_value": {},
+    "frozen_coins": {},
+    "invoices": {},
+    "labels": {},
+    "payment_requests": {},
+    "prevouts_by_scripthash": {
+        "451285dbecbc119a2e90709b857cafe894d78ee7fd29533550f469408008dbb4": [
+            [
+                "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f:0",
+                3861
+            ]
+        ],
+        "c7bd416e72a8f53932bed8790e2a5b93adb723711665a05492923abf65dcb103": [
+            [
+                "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3:1",
+                4632
+            ]
+        ],
+        "d6693040f9770d8cf268ebe41f27a6d2d917e71a561b054f43b3e76b516155c3": [
+            [
+                "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3:0",
+                168087
+            ]
+        ]
+    },
+    "qt-console-history": [],
+    "seed_version": 49,
+    "spent_outpoints": {
+        "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3": {
+            "1": "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f"
+        },
+        "e7385ad212c4ea23a935cc2a24d6f875135e02a80f816b92518b827ae888d9fe": {
+            "0": "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3"
+        }
+    },
+    "stored_height": 750754,
+    "transactions": {
+        "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3": "01000000000101fed988e87a828b51926b810fa8025e1375f8d6242acc35a923eac412d25a38e70000000000ffffffff02979002000000000022512069de835f5c215a704e18ad79047d783d8e383c03591bc745112e3fa3bc7c801f181200000000000017a914dacc6291a7bb66c1db01006b0b0a09d803f79ab98701411eb0be695452e31c227587f725fcd10e3b01064583652eadef04ee74d8d058cf756dc33db0982b9213c86db83fce45b4d5c9fcdb0c0052fc1111304c14301fdd0100000000",
+        "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f": "0200000001d334d01790be3f44c47a632f7a36c7993678c68c9bf8a8b8a76736b5dda0ea6a01000000fd1e010047304402203cb4e08b5f2dde88697426dec95e20c705e3a718a7a8cac9de4880e4c78cdeb302202ac09322b72fe232b6811a906a70d4dcb7cb85d90760e3397db09bdc9f8eaf4a01473044022060cb1d92c2a1ff45d0e63fb88bf75de6967e2288dc2f064134c29558ec6ce9b502204724ab40aa6ccb98a698b4eacd74148e3df0ff993bae4400974667ccd08df01a014c8b5221025f422ebba68417c72eb7a325093b8d64b0ef0fe64702d3105ecb12db417740c52102816beb8d2cbba0420c31113106508aabfb7521f28de588810870ac36348f75e9210332eb1e094f1950fa7c0f6c749158245f9a13ffc68f190c49825acad343da167f2103c51bd493e5925261652d3c360b98a1bec4e239706dcdbdf4b8e35b77c0ebd7a454aefeffffff01150f000000000000220020cbb6414ce073e63bf26bab8f56d22e0cb73ab3da5f055f1347673030eb8795209b740b00"
+    },
+    "tx_fees": {
+        "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3": [
+            null,
+            false,
+            1
+        ],
+        "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f": [
+            771,
+            true,
+            1
+        ]
+    },
+    "txi": {
+        "ea83d1f5269b9e92a279b3087e829908613ba9b4beca77c383087104bbaa6b1f": {
+            "3Mdv5HRZ5FKG1xncmFkuE8h5W72QVZsfEe": {
+                "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3:1": 4632
+            }
+        }
+    },
+    "txo": {
+        "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3": {
+            "3Mdv5HRZ5FKG1xncmFkuE8h5W72QVZsfEe": {
+                "1": [
+                    4632,
+                    false
+                ]
+            }
+        }
+    },
+    "use_encryption": false,
+    "verified_tx3": {
+        "6aeaa0ddb53667a7b8a8f89b8cc6783699c7367a2f637ac4443fbe9017d034d3": [
+            750748,
+            1661264309,
+            283,
+            "0000000000000000000770e4c6f959ae46c0f7384cdf4043003e1f4c471a93c8"
+        ]
+    },
+    "wallet_type": "2of4",
+    "winpos-qt": [
+        1620,
+        663,
+        1253,
+        923
+    ],
+    "x1/": {
+        "derivation": "m/84'/0'/0'",
+        "pw_hash_version": 1,
+        "root_fingerprint": "ff26becf",
+        "type": "bip32",
+        "xprv": "xprv9xrowhPjdq6vGxPD4cfSxALRybWjdyyUCibFnuk4fBM2nTXTe9US3PocBGFNBhP6zEGT5TudvMxqfctTv9N3mFqXFqErmAKyQPLozMDHH7x",
+        "xpub": "xpub6BrAMCvdUCfDVSTgAeCTKJHAXdME3ShKZwWrbJ9gDWt1fFrcBgngbC862WkAWTSYqxzu5t6cMAo5vNH2PPRNVZiKWuUYaf1upPGca1dFzjw"
+    },
+    "x2/": {
+        "derivation": "m",
+        "pw_hash_version": 1,
+        "root_fingerprint": "eea010a6",
+        "seed": "essence tiny utility illegal boss cluster pen rather harvest receive smooth sugar",
+        "seed_type": "standard",
+        "type": "bip32",
+        "xprv": "xprv9s21ZrQH143K2MSLEVvpTR8LFg8Upx83HZjEkvJAJ1FFubJyHzFmDTroJJ3Vdri1vARtZdSXhaymLko9Uoh39zoT21vnE86cgNAj2NP4RTW",
+        "xpub": "xpub661MyMwAqRbcEqWoLXTppZ54ohxyEQqteneqZJhmrLnEnPe7qXa1mGBH9bXbUYVqHKjHWGEXEM7NRJQVVkqac5TYrLf6pLZTqwQWSUXViQB"
+    },
+    "x3/": {
+        "derivation": "m",
+        "pw_hash_version": 1,
+        "root_fingerprint": "5249bf18",
+        "seed": "barrel adapt hint wheat wait settle unveil rare shuffle stay isolate bind",
+        "seed_type": "standard",
+        "type": "bip32",
+        "xprv": "xprv9s21ZrQH143K3PXttuRUmUQtApHUoQLz6rkBAmzTgLKvpaqfm9jH9dmRNWXMHqwvmsvPcNPLjXNSPrYx6i9tgwCUnsvds4P1T73sEAa1gEJ",
+        "xpub": "xpub661MyMwAqRbcFscMzvxV8cMcir7yCs4qU5fmyAQ5EfruhPApJh3XhS5uDofdW739PwK5M8FrftHZi5PJTnLpjAWSxErJYhiB1U4sqLsM4K3"
+    },
+    "x4/": {
+        "derivation": "m",
+        "pw_hash_version": 1,
+        "root_fingerprint": "c02932e3",
+        "seed": "way father large remind shine suit orange cruise hope busy flash bamboo",
+        "seed_type": "standard",
+        "type": "bip32",
+        "xprv": "xprv9s21ZrQH143K2fCG9Q7GgdT3L2KvqnmX7CQbYbMzZZnV9vmfKeZaPj7aYQE1DpA81tafScFCxKLctF8nPEYryr5URA8gnkKfpaLCnxfsQhM",
+        "xpub": "xpub661MyMwAqRbcF9GjFReH3mPmt4ARFFVNURLCLymc7uKU2j6osBspwXS4PfuoVNneNBfffhFSe8sVZD28r3Usywh5Yp2ZNZ9fEyaxkfyZeWH"
+    }
+}
